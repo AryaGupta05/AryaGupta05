@@ -17,24 +17,24 @@
 ### ⚙️ Tools I Touch a Lot
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" /> Java  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> Python  
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" /> Spring Boot  
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" /> MySQL  
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> Git  
-  <img src="https://img.shields.io/badge/REST%20APIs-FF6F00?style=flat&logo=api&logoColor=white" /> REST APIs  
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/REST%20APIs-FF6F00?style=flat&logo=api&logoColor=white" />  
 </p>
 
 <details>
 <summary>Sometimes 👇</summary>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /> FastAPI  
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> React  
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" /> HTML  
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" /> CSS  
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" /> VS Code  
-  <img src="https://img.shields.io/badge/Terminal-000000?style=flat&logo=gnome-terminal&logoColor=white" /> Terminal wizardry  
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> 
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Terminal-000000?style=flat&logo=gnome-terminal&logoColor=white" />  
 </p>
 
 </details>
@@ -64,7 +64,6 @@
 <p>
   <a href="mailto:aryaguptaisop@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/arya-gupta-6b6392306/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://www.instagram.com/aryagupta.05/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
